@@ -8,14 +8,13 @@ Code and supplementary material for AAAI 2025 paper.
 We provide supervised fine-tuning checkpoints (including cold-start policies and reward models) as well as reinforcement learning checkpoints to facilitate reimplementation and further experimentation.
 
 
-
-**BPD-DSRL checkpoints are** [here](https://qubstudentcloud-my.sharepoint.com/my?id=%2Fpersonal%2F40414335_ads_qub_ac_uk%2FDocuments%2FBPD-DSRL-RL-Checkpoints%2FBPD-DSRL-CKPT-SQUAD2&ga=1)
+**BPD-DSRL checkpoints are** [here](https://qubstudentcloud-my.sharepoint.com/my?id=%2Fpersonal%2F40414335%5Fads%5Fqub%5Fac%5Fuk%2FDocuments%2FBPD%2DDSRL%2DRL%2DCheckpoints&ga=1)
 
 
 
 ### Evaluating BPD-DSRL
 
-1. Download the checkpoints from the provided [link](https://qubstudentcloud-my.sharepoint.com/my?id=%2Fpersonal%2F40414335_ads_qub_ac_uk%2FDocuments%2FBPD-DSRL-RL-Checkpoints%2FBPD-DSRL-CKPT-SQUAD2&ga=1)
+1. Download the checkpoints from the provided [link](https://qubstudentcloud-my.sharepoint.com/my?id=%2Fpersonal%2F40414335%5Fads%5Fqub%5Fac%5Fuk%2FDocuments%2FBPD%2DDSRL%2DRL%2DCheckpoints&ga=1)
 
 2. To generate outputs using our model checkpoints, run the following command:
 
