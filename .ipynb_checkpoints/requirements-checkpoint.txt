@@ -1,0 +1,8 @@
+datasets==2.19.0
+editdistance==0.6.2
+huggingface_hub==0.22.2
+numpy==2.2.2
+torch==2.1.2+cu121
+tqdm==4.64.1
+transformers==4.40.0
+sacrebleu==2.4.2
