@@ -6,7 +6,7 @@ Code and supplementary material for our AAAI 2025 paper: **Enhancing Question Ge
 
 We provide supervised fine-tuning checkpoints (including cold-start policies and reward models) as well as reinforcement learning checkpoints to facilitate reimplementation and further experimentation.
 
-**BPD-DSRL checkpoints are** [here](https://qubstudentcloud-my.sharepoint.com/my?id=%2Fpersonal%2F40414335_ads_qub_ac_uk%2FDocuments%2FBPD-DSRL-RL-Checkpoints%2FBPD-DSRL-CKPT-SQUAD2&ga=1)
+**BPD-DSRL checkpoints are** [here](https://qubstudentcloud-my.sharepoint.com/:f:/g/personal/40414335_ads_qub_ac_uk/EoJivoZKOzhEqBnIXudFZhMB6DXWnNA6aMXxZUo-5AE2fA?e=gvSssT)
 
 ### Evaluating BPD-DSRL
 
